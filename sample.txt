@@ -8,3 +8,7 @@ Third commit
 ハイキングは雨天決行です！
 test
 マージしました。
+This is test
+hahahaha
+Hello
+hi
