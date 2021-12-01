@@ -1,5 +1,10 @@
+Hello git
+ファーストコミット
+aaaaaaaa
+コンフリクトテスト
 Hello git 
 Second commit
 Third commit
 ハイキングは雨天決行です！
 test
+マージしました。
